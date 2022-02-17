@@ -1,9 +1,4 @@
 
-
-from turtle import position
-from unicodedata import name
-
-
 alphabet = {
     'a':0,
     'b':0,
